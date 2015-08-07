@@ -28,7 +28,6 @@ See file License to project for more details. (http://www.gnu.org/licenses/gpl-2
 See file Video Demo: Double Android operating system of video.
 
 
-
 Version information:
 ====================
 
@@ -37,5 +36,12 @@ Platform: LG nexus 4
 Kernel: 3.4
 
 Android: Android 4.3
+
+
+Video Show：
+===========
+
+Video：https://github.com/multi-android/multi-android/blob/master/Video%20Demo/Multi-android.mp4
+
 
 
