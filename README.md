@@ -5,7 +5,9 @@
 Double Android system solutions：
 ================================
 
-To enhance the security and customizability of Android system, a method based on the container technique on the Android system is proposed in this paper through analyzing the current virtualization technology. By sharing a Linux kernel, it can run multiple Android systems on one device simultaneously. First of all, we create multiple isolated operation space in the Linux kernel by using container and virtualization technology. In this paper we also implement the display device, Binder driver GPU WIFI and SIM virtualization for running an Android subsystem independently in each separated space, in order to achieve multiplexing equipment.
+To enhance the security and customizability of Android system, a method based on the container technique on the Android system is proposed in this paper through analyzing the current virtualization technology. By sharing a Linux kernel, it can run multiple Android systems on one device simultaneously. 
+
+First of all, we create multiple isolated operation space in the Linux kernel by using container and virtualization technology. In this paper we also implement the display device, Binder driver GPU WIFI and SIM virtualization for running an Android subsystem independently in each separated space, in order to achieve multiplexing equipment.
 
 This project also studied and implemented quickly switch technology between Android subsystem, it allows for fast switching within 1 second, diverse switching mode, which can be switched by the program can also be switched by physical buttons.
 
